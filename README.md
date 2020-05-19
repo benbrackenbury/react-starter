@@ -3,21 +3,22 @@
 Creates a *create-react-app* which has been modified with SCSS and utilises *react-router-dom*.
 
 ## Installation
-  git clone https://github.com/benbrackenbury/react-starter.git
+
+    git clone https://github.com/benbrackenbury/react-starter.git
   
-  cd react-starter
+    cd react-starter
   
 then
 
-  yarn
+    yarn
   
 or
 
-  npm install
+    npm install
   
 ## Usage
-  yarn start
+    yarn start
   
 or
 
-  npm start
+    npm start
